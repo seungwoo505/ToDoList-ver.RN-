@@ -6,9 +6,10 @@
 제작 기간 : 2024.02 ~ 2024.02
 
 ## UI/UX
-![AndroidToDoList](https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.gif)
-
-![IosToDoList](https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.gif)
+### Android
+![AndroidToDoList](https://raw.githubusercontent.com/seungwoo505/ToDoList-ver.RN-/main/AndroidScreen.png)
+### IOS
+![IosToDoList](https://raw.githubusercontent.com/seungwoo505/ToDoList-ver.RN-/main/IosScreen.png)
 
 <https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.mp4>
 
