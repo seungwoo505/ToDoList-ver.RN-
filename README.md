@@ -11,10 +11,6 @@
 ### IOS
 ![IosToDoList](https://raw.githubusercontent.com/seungwoo505/ToDoList-ver.RN-/main/IosScreen.png)
 
-<https://github.com/seungwoo505/ToDoList/blob/main/MotionImage.mp4>
-
-깔끔한 영상을 보고 싶으시면 위의 링크를 통해 확인해주시면 됩니다.
-
 ## 설명
 할 일을 작성하고 엔터키 또는 리턴키를 누르면 입력되게됩니다.
 
