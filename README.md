@@ -9,7 +9,7 @@
 ### Android
 <img src="https://raw.githubusercontent.com/seungwoo505/ToDoList-ver.RN-/main/AndroidScreen.png" height="500"/>
 ### IOS
-![IosToDoList](https://raw.githubusercontent.com/seungwoo505/ToDoList-ver.RN-/main/IosScreen.png)
+<img src="https://raw.githubusercontent.com/seungwoo505/ToDoList-ver.RN-/main/IosScreen.png" height="500"/>
 
 ## 설명
 할 일을 작성하고 엔터키 또는 리턴키를 누르면 입력되게됩니다.
