@@ -7,7 +7,7 @@
 
 ## UI/UX
 ### Android
-![AndroidToDoList](https://raw.githubusercontent.com/seungwoo505/ToDoList-ver.RN-/main/AndroidScreen.png)
+<img src="https://raw.githubusercontent.com/seungwoo505/ToDoList-ver.RN-/main/AndroidScreen.png" width="50" height="50"/>
 ### IOS
 ![IosToDoList](https://raw.githubusercontent.com/seungwoo505/ToDoList-ver.RN-/main/IosScreen.png)
 
